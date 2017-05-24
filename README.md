@@ -1,2 +1,1 @@
-# hello-world
-newby testing
+Just some text ...
